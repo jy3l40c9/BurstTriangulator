@@ -1,8 +1,1 @@
-{
-  "dependencies": {
-    "com.unity.test-framework": "1.1.33"
-  },
-  "testables": [
-    "com.andywiecko.burst.triangulator"
-  ]
-}
+/home/runner/work/_actions/game-ci/unity-test-runner/v4/dist/index.js
